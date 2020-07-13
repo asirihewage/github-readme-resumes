@@ -1,9 +1,9 @@
 ls -all > github.log
-echo "Daily github auto commit"
+echo "Daily github auto commit `date +%D`"
 git add .
-git commit -m "Daily Auto commit"
+git commit -m "Daily Auto commit `date +%D`"
 git push
 rm github.log
 git add .
-git commit -m "Daily Auto commit"
+git commit -m "Daily Auto commit `date +%D`"
 git push
