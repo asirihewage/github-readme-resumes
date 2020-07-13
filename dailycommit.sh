@@ -1,5 +1,5 @@
 cd G:/GitHub/github-readme-resumes/
-mv github.log github_new.log
+mv github_old.log github_new.log
 git add .
 git commit -m "Daily Auto commit"
 git push
