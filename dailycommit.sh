@@ -1,5 +1,5 @@
 ls -all > github.log
-sleep
+sleep 2s
 echo "Daily github auto commit"
 git add .
 git commit -m "Daily Auto commit"
