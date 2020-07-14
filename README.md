@@ -13,5 +13,17 @@ Choose one and follow these steps to add it into your profile.
 
 You will see your cool GitHub Resume in your profile page.
 
-### Don't forget to rate this repository 💙 
-Please make a pull request with your cool ideas!
+## Sample 01
+![sample01](screenshots/sample1.png)
+
+## Sample 02
+![sample02](screenshots/sample2.png)
+
+### Be creative! Don't forget to rate this repository 💙 
+
+## Contribution
+- Please make a pull request with your cool ideas!
+
+<p align='center'>
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge"> -->
+ <p/>
