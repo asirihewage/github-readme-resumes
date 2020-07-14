@@ -2,29 +2,22 @@
   Github Readme Resumes
   <p align='center'>
  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge">
- <p/>
+              <a href="https://twitter.com/intent/follow?screen_name=asirihewage">
+<img src="https://img.shields.io/twitter/follow/asirihewage?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+            <p/>
 </h1>
 <h2 align="center">
   Github recently introduced Readme Resumes where you can showcase your projects, a note or anything using a readme file.
  
  <p align="center">
-<img src="https://img.shields.io/github/contributors/badges/shields" />
 <img src="https://img.shields.io/opencollective/backers/shields" />
 <img src="https://img.shields.io/opencollective/sponsors/shields" />
-<img src="https://img.shields.io/github/commit-activity/m/badges/shields" />
 <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status">
-<img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
-            alt="service-test status">
 <img src="https://img.shields.io/coveralls/github/badges/shields"
             alt="coverage">
-<img src="https://img.shields.io/lgtm/alerts/g/badges/shields"
-            alt="Total alerts"/>
 <img src="https://img.shields.io/github/commits-since/badges/shields/gh-pages?label=commits%20to%20be%20deployed"
             alt="commits to be deployed">
-<img src="https://img.shields.io/discord/308323056592486420?logo=discord"
-            alt="chat on Discord">
-<img src="https://img.shields.io/twitter/follow/asirihewage?style=social&logo=twitter"
-            alt="follow on Twitter">
 </p>
 
 </h2>
