@@ -1,5 +1,5 @@
 <h1 align="center">
-  Github Readme Resumes
+  Github Readme Resumes 
   <p align='center'>
  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge">
               <a href="https://twitter.com/intent/follow?screen_name=asirihewage">
@@ -48,3 +48,6 @@ You will see your cool GitHub Resume in your profile page.
 - Please make a pull request with your cool ideas!
 
 MIT © Asiri H. @asirihewage
+
+![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+ ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
