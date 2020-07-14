@@ -3,6 +3,9 @@
 </h1>
 <h2 align="center">
   Github recently introduced Readme Resumes where you can showcase your projects, a note or anything using a readme file.
+<p align='center'>
+ <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge">
+ <p/>
 </h2>
 
 <div align="center">
@@ -30,6 +33,4 @@ You will see your cool GitHub Resume in your profile page.
 ## Contribution
 - Please make a pull request with your cool ideas!
 
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge"> -->
- <p/>
+MIT © Asiri H. @asirihewage
