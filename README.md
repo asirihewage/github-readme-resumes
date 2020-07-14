@@ -1,11 +1,8 @@
-# Github Readme Resumes
-Github recently introduced Readme Resumes where you can showcase your projects, a note or anything using a readme file.
-
 <h1 align="center">
-  <img src="images/nerd-fonts-logo.svg" alt="Nerd Fonts Logo" />
+  Github Readme Resumes
 </h1>
 <h2 align="center">
-  <img alt="Iconic font aggregator, collection, and patcher" src="images/project-subtitle-phrase.svg">
+  Github recently introduced Readme Resumes where you can showcase your projects, a note or anything using a readme file.
 </h2>
 
 <div align="center">
