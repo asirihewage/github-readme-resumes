@@ -1,6 +1,23 @@
 # Github Readme Resumes
 Github recently introduced Readme Resumes where you can showcase your projects, a note or anything using a readme file.
 
+<h1 align="center">
+  <img src="images/nerd-fonts-logo.svg" alt="Nerd Fonts Logo" />
+</h1>
+<h2 align="center">
+  <img alt="Iconic font aggregator, collection, and patcher" src="images/project-subtitle-phrase.svg">
+</h2>
+
+<div align="center">
+
+[Releases][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Fonts](#patched-fonts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Font Patcher](#font-patcher)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki Documentation][wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Stickers][stickers]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[VimDevIcons][vim-devicons]
+
+
+[![GitHub release][img-version-badge]][repo] [![Gitter][img-gitter-badge]][gitter] [![Build Status][img-travis-ci]][travis-ci] [![Code of Conduct][coc-badge]][coc] [![PRs Welcome][prs-badge]][prs]  <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> [![Twitter][twitter-badge]][twitter-intent]
+
+
+</div>
+
 This repository contains a collection of GitHub README Resumes for your GitHub profile. 
 Choose one and follow these steps to add it into your profile.
 
