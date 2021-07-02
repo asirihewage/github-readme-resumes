@@ -52,3 +52,5 @@ MIT © Asiri H. @asirihewage
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
  ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
+
+.
